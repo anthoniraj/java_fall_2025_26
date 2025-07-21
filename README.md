@@ -69,6 +69,24 @@ After installation, VS Code will prompt to create or open Java projects, and aut
 * **Dobri Next - Themes and Icons**
   [Install](https://marketplace.visualstudio.com/items?itemName=sldobri.bunker)
 
+### To Run the Javadoc Command for a Program
+```bash
+javadoc YourFile.java
+```
+
+## To Run the Javadoc Command for a Project
+
+```bash
+javadoc -d doc -sourcepath src -subpackages edu.vit.corejava.basics
+```
+
+**Explanation**:
+
+* `-d doc`: Outputs generated documentation to a folder named `doc/`
+* `-sourcepath src`: Sets your `src/` folder as the root for packages
+* `-subpackages edu.vit.corejava.basics`: Includes all classes in that package
+
+---
 
 ## References
 
