@@ -2,7 +2,7 @@ package edu.vit.corejava.basics;
 
 public class FormatSpecifier {
     public static void main(String[] args) {
-        String studentName = "Arjun";
+        String studentName = "Arjun Kumar Raja";
         int age = 20;
         double cgpa = 8.4567;
         double attendancePercent = 92.348;
@@ -19,6 +19,6 @@ public class FormatSpecifier {
 
         // Aligning with field width
         System.out.printf("%-12s: %-10s%n", "Student", studentName); // left-aligned
-        System.out.printf("%-12s: %10.2f%n", "Final Marks", 87.6789); // right-aligned, 2 decimal
+        System.out.printf("%-12s: %10.2f%n", "Final Marks", 187.6789); // right-aligned, 2 decimal
     }
 }
