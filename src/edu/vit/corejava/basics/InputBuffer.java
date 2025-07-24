@@ -14,7 +14,8 @@ public class InputBuffer {
         System.out.println("Welcome: "+name);
         System.out.println("Enter your age: ");
         String age = br.readLine();
+        System.out.println("Your age in string form is: "+age);
         int intAge = Integer.parseInt(age);
-        System.out.println(" Your age is: "+intAge);
+        System.out.println("Your age is: "+intAge);
     }
 }

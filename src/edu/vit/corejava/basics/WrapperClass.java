@@ -5,12 +5,7 @@ public class WrapperClass{
         Integer x = 10; // Auto boxing
         System.out.println(x.MAX_VALUE);
         System.out.println(x.MIN_VALUE);
-        int y = 10;
+        int y = 10; // Unboxing
         System.out.println(y);
-
-        ArrayList<Integer> values = List.of(1,2,3,4);
-        // values = [1,2,3,4]
-
-
     }
 }
