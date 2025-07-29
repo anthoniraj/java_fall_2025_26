@@ -14,5 +14,7 @@ public class InputScanner {
         String name = input.nextLine();
         System.out.println("Welcome "+ name);
 
+        input.close();
+
     }
 }
