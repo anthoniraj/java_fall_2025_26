@@ -1,4 +1,4 @@
-package edu.vit.corejava.syntax;
+package edu.vit.corejava.conditional;
 
 public class IfElseStatement {
     public static void main(String[] args) {

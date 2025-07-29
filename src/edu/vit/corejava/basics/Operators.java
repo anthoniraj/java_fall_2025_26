@@ -1,4 +1,4 @@
-package edu.vit.corejava.syntax;
+package edu.vit.corejava.basics;
 
 public class Operators {
     public static void main(String[] args) {
