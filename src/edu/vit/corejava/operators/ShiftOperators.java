@@ -1,4 +1,13 @@
 package edu.vit.corejava.operators;
+/**
+ * ShiftOperators demonstrates the use of shift operators in Java.
+ * Shift operators are used to shift the bits of a number to the left or right.
+ * Left shift (<<) moves bits to the left, effectively multiplying the number by 2 for each shift.
+ * Right shift (>>) moves bits to the right, effectively dividing the number by 2 for each shift.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class ShiftOperators {
     public static void main(String[] args) {

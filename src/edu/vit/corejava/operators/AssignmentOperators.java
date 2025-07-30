@@ -1,4 +1,12 @@
 package edu.vit.corejava.operators;
+/**
+ * This class demonstrates the use of assignment operators in Java.
+ * It includes basic assignment and compound assignment operations.
+ * Assignment operators are used to assign values to variables.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class AssignmentOperators {
     public static void main(String[] args) {

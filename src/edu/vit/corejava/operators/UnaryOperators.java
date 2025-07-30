@@ -1,4 +1,14 @@
 package edu.vit.corejava.operators;
+/**
+ * This class demonstrates the use of unary operators in Java.
+ * Unary operators operate on a single operand and include unary plus, unary minus,
+ * increment, and decrement operators.
+ * Unary plus (+) does not change the value, while unary minus (-) negates it.
+ * Increment (++) increases the value by 1, and decrement (--) decreases it by
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class UnaryOperators {
     public static void main(String[] args) {

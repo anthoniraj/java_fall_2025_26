@@ -1,4 +1,13 @@
 package edu.vit.corejava.operators;
+/**
+ * BitwiseOperators.java
+ * This class demonstrates the use of bitwise operators in Java.
+ * Bitwise operators perform operations on bits and are used for low-level programming tasks.
+ * Bitwise AND (&), OR (|), XOR (^), and NOT (~) are commonly used operators.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28 
+ */
 
 public class BitwiseOperators {
     public static void main(String[] args) {

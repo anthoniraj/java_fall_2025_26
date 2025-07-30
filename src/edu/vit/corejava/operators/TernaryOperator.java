@@ -1,4 +1,12 @@
 package edu.vit.corejava.operators;
+/**
+ * Demonstrates the use of the ternary operator in Java.
+ * The ternary operator is a shorthand for the if-else statement and is used to evaluate
+ * a boolean expression and return one of two values based on the result.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class TernaryOperator {
     public static void main(String[] args) {

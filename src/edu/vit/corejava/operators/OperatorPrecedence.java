@@ -1,4 +1,12 @@
 package edu.vit.corejava.operators;
+/**
+ * Demonstrates operator precedence in Java.
+ * Operator precedence determines the order in which operators are evaluated in expressions.
+ * This class shows how different operators interact based on their precedence.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class OperatorPrecedence {
     public static void main(String[] args) {

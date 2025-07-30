@@ -1,4 +1,12 @@
 package edu.vit.corejava.operators;
+/**
+ * ArithmeticOperators demonstrates the use of basic arithmetic operators in Java.
+ * Arithmetic operators are used to perform basic mathematical operations such as addition, subtraction,
+ * multiplication, division, and modulus.
+ * @author Anthoniraj Amalanathan
+ * @version 1.0
+ * @since 2025-07-28
+ */
 
 public class ArithmeticOperators {
     public static void main(String[] args) {
