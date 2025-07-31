@@ -1,4 +1,4 @@
-
+package edu.vit.corejava.practice;
 /**
  * Input: Two Integers (10, 7)
  * Check if both numbers are odd 
