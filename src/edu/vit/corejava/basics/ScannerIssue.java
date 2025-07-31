@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ScannerIssue {
    public static void main(String[] args) {
-    int a = Math.abs(20);
+   //  int a = Math.abs(20);
    //  double squareRoot = Math.sqrt(3);
    //  int maxValue = Math.max(1, 2);
    //  int minValue = Math.min(10,2);
